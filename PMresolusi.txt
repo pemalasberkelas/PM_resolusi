@@ -1,5 +1,5 @@
 PM resolusi
 - Mendesain menjadi lebih menarik
 - Forum resolusi
-- Untuk membuat Shop Online
 - Kolab dengan jagoan proggramer
+- menambahkan plog
